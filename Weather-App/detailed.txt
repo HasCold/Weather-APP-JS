@@ -1,0 +1,18 @@
+1. RapidAPI :- Weather by API-Ninjas
+// const options = {
+// 	method: 'GET',
+// 	headers: {
+// 		'X-RapidAPI-Key': 'ce1402f125mshb018f7d197f2eb2p1b6efejsn1608aebcae62',
+// 		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+// 	}
+// };
+
+// fetch('https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=Seattle', options)
+// 	.then(response => response.json())
+// 	.then(response => console.log(response))
+// 	.catch(err => console.error(err));
+
+2. HTML, CSS, Bootstrap 5 is used
+
+3. JavaScript is used
+4. Openweathermap API is used In all Project;
